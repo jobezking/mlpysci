@@ -1,0 +1,5 @@
+Training example: row in a table representing the dataset. Synonymous with observation, record, instance or sample with sample referring to a collection of training examples.
+Training: model fitting, for parametric models similar to parameter estimaton
+Feature (x): a column in a data table or data (design) matrix. Synonymous with predictor, variable, input, attribute, covariate.
+Target (y): synonymous with outcome, output, response variable, dependent variable, class label, ground truth
+Loss function: synonymous with cost function. Sometimes called error function. 
